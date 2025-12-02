@@ -1,6 +1,9 @@
 # Hi there, I'm Adnan Hussen 👋
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.abdulfetah.hussen@gmail.com)
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Software+Engineer;BSc+Computing+Student;Full+Stack+Developer;Problem+Solver)
   
@@ -70,23 +73,12 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
   <img src="https://github-profile-trophy.vercel.app/?username=adnan-hussen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
-## 🔗 Connect With Me
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amor-fati)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.abdulfetah.hussen@gmail.com)
-
-</div>
 
 ---
 
 <div align="center">
   
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 👀 Profile Views
 
