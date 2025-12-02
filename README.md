@@ -15,7 +15,7 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
 - 🌱 Currently exploring **Cloud Native Technologies & System Design**
 - 🧩 Solving problems on **LeetCode** to sharpen my algorithmic thinking
 - 💡 Interested in **DevOps, Microservices, and Distributed Systems**
-- 📫 Reach me: **adnan.hussen@example.com**
+- 📫 Reach me: **adnan.abdulfetah.hussen@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -50,8 +50,8 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanhussen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=A9B1D6" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan-hussen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=A9B1D6" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
 </div>
 
 ## 🔥 GitHub Streak
