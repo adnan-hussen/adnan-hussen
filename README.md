@@ -41,11 +41,11 @@ I'm a Software Engineer pursuing a Bachelor of Science in Computing and Informat
 </div>
 
 ##
-<div >
+<div align="center">
 
-<img src="https://github-readme-stats-neon-two-53.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
+<img style="display:inline;" src="https://github-readme-stats-neon-two-53.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-neon.vercel.app?user=adnan-hussen&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" /></a>
+<a style="display:inline;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-neon.vercel.app?user=adnan-hussen&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" /></a>
 
    </div>
 
