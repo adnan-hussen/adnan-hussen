@@ -11,14 +11,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing and Information Systems at the University of Dubai. I love building scalable applications and solving complex problems with elegant solutions.
+I'm a Software Engineer pursuing a Bachelor of Science in Computing and Information Systems at the University of Dubai. I love building things.
 
-- 🎓 **Student** at University of Dubai - Computing & Information Systems
-- 💻 **Software Engineer** focused on Full Stack Development
-- 🌱 Currently exploring **Cloud Native Technologies & System Design**
-- 🧩 Solving problems on **LeetCode** to sharpen my algorithmic thinking
-- 💡 Interested in **DevOps, Microservices, and Distributed Systems**
-- 📫 Reach me: **adnan.abdulfetah.hussen@gmail.com**
 
 ## 🛠️ Tech Stack
 
