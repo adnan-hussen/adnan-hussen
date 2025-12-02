@@ -51,7 +51,7 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
 
 <div align="center">
   <img src="https://github-readme-stats-neon-two-53.vercel.app/api?username=adnan-hussen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=A9B1D6" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-neon-two-53.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
 </div>
 
 ## 🔥 GitHub Streak
@@ -62,12 +62,6 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/amor-fati?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-hussen&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
