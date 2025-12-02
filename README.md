@@ -1,4 +1,4 @@
-# Hi there, I'm Adnan Hussen 👋
+# Hey there, I'm Adnan Hussen.
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 I'm a Software Engineer pursuing a Bachelor of Science in Computing and Information Systems at the University of Dubai. I love building things.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,6 @@ I'm a Software Engineer pursuing a Bachelor of Science in Computing and Informat
 
 </div>
 
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-neon-two-53.vercel.app/api?username=adnan-hussen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=A9B1D6" alt="GitHub Stats" height="170"/>
@@ -48,7 +47,6 @@ I'm a Software Engineer pursuing a Bachelor of Science in Computing and Informat
   
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-neon.vercel.app?user=adnan-hussen&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" /></a> </div>
 
-## 🧩 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/amor-fati?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
@@ -60,8 +58,6 @@ I'm a Software Engineer pursuing a Bachelor of Science in Computing and Informat
 
 <div align="center">
   
-
-### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=adnan-hussen&color=6366f1&style=for-the-badge)
 
