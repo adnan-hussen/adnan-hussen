@@ -5,11 +5,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.abdulfetah.hussen@gmail.com)
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Software+Engineer;BSc+Computing+Student;Full+Stack+Developer;Problem+Solver)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Software+Engineer)
   
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a Software Engineer pursuing a Bachelor of Science in Computing and Information Systems at the University of Dubai. I love building things.
 
