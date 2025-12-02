@@ -57,7 +57,7 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-hussen&theme=tokyonight&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-neon-two-53.vercel.app/?user=adnan-hussen&theme=tokyonight&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
 ## 🧩 LeetCode Stats
