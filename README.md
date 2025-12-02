@@ -50,26 +50,32 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan-hussen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=A9B1D6" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan-hussen&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=6366F1&text_color=A9B1D6" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
 </div>
 
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanhussen&theme=tokyonight&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-hussen&theme=tokyonight&hide_border=true&background=1A1B27&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+</div>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/amor-fati?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanhussen&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-hussen&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnanhussen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adnan-hussen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ## 🔗 Connect With Me
@@ -78,7 +84,7 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amor-fati)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.hussen@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.abdulfetah.hussen@gmail.com)
 
 </div>
 
@@ -92,7 +98,7 @@ I'm a passionate Software Engineer pursuing a Bachelor of Science in Computing a
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=adnanhussen&color=6366f1&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=adnan-hussen&color=6366f1&style=for-the-badge)
 
 </div>
 
