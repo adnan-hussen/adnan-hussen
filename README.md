@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.abdulfetah.hussen@gmail.com)
-  
+
+##
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Software+Engineer)
   
 </div>
@@ -44,7 +45,7 @@ I'm a Software Engineer pursuing a Bachelor of Science in Computing and Informat
 <div align="center">
 
 <img src="https://github-readme-stats-neon-two-53.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-neon.vercel.app?user=adnan-hussen&theme=tokyonight&card_height=170" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-neon.vercel.app?user=adnan-hussen&theme=tokyonight&hide_border=true&card_height=170" alt="GitHub Streak" /></a>
 
 </div>
 
