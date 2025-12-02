@@ -4,9 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.abdulfetah.hussen@gmail.com)
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Software+Engineer)
-  
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Software+Engineer)
+  
 </div>
 
 ## About Me
@@ -14,7 +14,7 @@
 I'm a Software Engineer pursuing a Bachelor of Science in Computing and Information Systems at the University of Dubai. I love building things.
 
 
-##  Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -43,15 +43,14 @@ I'm a Software Engineer pursuing a Bachelor of Science in Computing and Informat
 ##
 <div align="center">
 
-<img style="display:inline;" src="https://github-readme-stats-neon-two-53.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
-  
-<a style="display:inline;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-neon.vercel.app?user=adnan-hussen&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats-neon-two-53.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-neon.vercel.app?user=adnan-hussen&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" /></a>
 
-   </div>
+</div>
 
 ##
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/amor-fati?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/amor-fati?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
 </div>
 
 
@@ -59,12 +58,12 @@ I'm a Software Engineer pursuing a Bachelor of Science in Computing and Informat
 ---
 
 <div align="center">
-  
+  
 
 ![](https://komarev.com/ghpvc/?username=adnan-hussen&color=6366f1&style=for-the-badge)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
