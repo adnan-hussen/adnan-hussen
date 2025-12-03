@@ -12,8 +12,6 @@
 I'm a Software Engineer pursuing a Bachelor of Science in Computing and Information Systems at the University of Dubai. I love building things.
 
 
-##  Tech Stack
-
 <div align="center">
 
 ### Languages
