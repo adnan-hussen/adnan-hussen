@@ -1,8 +1,9 @@
 <div align="center">
 <h1>Hey there, I'm Adnan Hussen</h1>
+<div> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnan.abdulfetah.hussen@gmail.com)
-  
+</div>
 </div>
 
 
