@@ -54,15 +54,5 @@ I'm a software engineer pursuing a bachelor's degree in Computing and Informatio
 
 ---
 
-<div align="center">
-  
-
-![](https://komarev.com/ghpvc/?username=adnan-hussen&color=6366f1&style=for-the-badge)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
 
 
