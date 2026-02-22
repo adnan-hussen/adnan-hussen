@@ -52,6 +52,10 @@ I'm a software engineer pursuing a bachelor's degree in Computing and Informatio
 
 </div>
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/amor-fati?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats"/>
+</div>
+
 ---
 
 
