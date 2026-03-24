@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a software engineer pursuing a bachelor's degree in Computing and Information Systems at the University of Dubai. I love building things.
+I'm a software engineer pursuing a bachelor's degree in Computing and Information Systems at the University of Dubai.
 
 <div align="center">
 
