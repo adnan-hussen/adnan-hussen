@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a software engineer pursuing a bachelor's degree in Information Systems Security at the University of Dubai.
+I'm a Computing and Information Systems Security Student at University of Dubai and an aspiring machine learning engineer.
 
 <div align="center">
 
