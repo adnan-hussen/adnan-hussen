@@ -8,7 +8,7 @@
 
 ## About Me
 
-A student at University of Dubai and a SWE.
+Student at University of Dubai and an SWE.
 
 <div align="center">
 
