@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Adnan Hussen</h1>
+<h1>Hey there, I'm Adnan.</h1>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hussen)
