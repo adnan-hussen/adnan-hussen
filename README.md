@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Computing and Information Systems Security Student at University of Dubai and an aspiring machine learning engineer.
+A student at University of Dubai and a SWE.
 
 <div align="center">
 
