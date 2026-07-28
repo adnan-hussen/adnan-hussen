@@ -8,7 +8,7 @@
 
 ## About Me
 
-Student at University of Dubai and an SWE.
+Student at University of Dubai, a software engineer, and ML enthusiast.
 
 <div align="center">
 
