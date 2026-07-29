@@ -20,10 +20,6 @@ Student at University of Dubai, a software engineer, and ML enthusiast.
 
 ---
 
-
-
----
-
 <div align="center">
 
 <img src="https://github-readme-stats-neon-two-53.vercel.app/api/top-langs/?username=adnan-hussen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=A9B1D6" alt="Top Languages" height="170"/>
