@@ -10,7 +10,7 @@
 
 ## About Me
 
-Student at University of Dubai, a software engineer, and ML enthusiast.
+Student at University of Dubai, a software engineer, and aspiring AI researcher.
 
 <div align="center">
 
