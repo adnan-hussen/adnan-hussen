@@ -1,5 +1,5 @@
 
-<h1>Hey there, I'm Adnan.</h1>
+<h1>Hey, I'm Adnan.</h1>
 
 <div align="center">
 
